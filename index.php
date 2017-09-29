@@ -5,5 +5,5 @@
   $multiplication = $chiffre1 * $chiffre2;
 
   echo "$chiffre1 + $chiffre2 = $addition <br />";
-    echo "$chiffre1 x $chiffre2 = $multiplication";
+  echo "$chiffre1 x $chiffre2 = $multiplication";
 ?>
